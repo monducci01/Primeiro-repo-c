@@ -1,4 +1,3 @@
-# Primeiro-repo-c
 #include <stdio.h>
 
 int main() {
